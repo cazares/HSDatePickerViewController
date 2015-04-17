@@ -17,7 +17,7 @@ Developers can change color of component, picker values formaters, default butto
   s.author    = "Kamil Powałowski"
   s.social_media_url   = "http://twitter.com/kamilpowalowski"
 
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/EmilYo/HSDatePickerViewController.git", :tag => "v#{s.version}" }
   s.source_files  = "Classes", "HSDatePickerViewControllerDemo/HSDatePickerViewController/*.{h,m}"
   s.resource  = "HSDatePickerViewControllerDemo/HSDatePickerViewController/HSDatePickerViewController.xib"
